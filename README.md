@@ -68,7 +68,7 @@ This project is inspired by and loosely based on:
 F. Barriga-Gallegos, A. Lüer-Villagra, and G. Gutiérrez-Jarpa, "The Angular Set Covering Problem," *IEEE Access*, vol. 12, pp. 87181–87198, 2024, doi: 10.1109/ACCESS.2024.3416871.
 
 ## 🙋‍♂️ Author
-**Paul Jose** - M.Tech CSE - Mar Athanasius College of Engineering - [[LinkedIn](https://www.linkedin.com/in/paul-jose-016)] | [[Email](pauljose513@gmail.com)]
+**Paul Jose** - M.Tech CSE - Mar Athanasius College of Engineering - [[LinkedIn](https://www.linkedin.com/in/paul-jose-016)] | [[Email](mailto:pauljose513@gmail.com)]
 
 ## 📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
