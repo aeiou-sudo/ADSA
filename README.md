@@ -60,7 +60,7 @@ python CCTV.py
 This will launch a simulation where cameras are placed to cover the grid using the greedy algorithm. The final result is shown using `matplotlib` as a plot.
 
 ## 🖼️ Demo
-You can find a video demo of the simulation here *[[LinkedIn](https://www.linkedin.com/in/paul-jose-016)]*.
+You can find a video demo of the simulation here *[[LinkedIn](https://www.linkedin.com/posts/paul-jose-016_datascience-optimization-npproblems-activity-7321590146762485762-HwK6?utm_source=share&utm_medium=member_desktop&rcm=ACoAACzyJHgBWw6DNcXoeE4_bII6k5mDnkYlt3k)]*.
 
 ## 📚 References
 This project is inspired by and loosely based on:
@@ -68,7 +68,7 @@ This project is inspired by and loosely based on:
 F. Barriga-Gallegos, A. Lüer-Villagra, and G. Gutiérrez-Jarpa, "The Angular Set Covering Problem," *IEEE Access*, vol. 12, pp. 87181–87198, 2024, doi: 10.1109/ACCESS.2024.3416871.
 
 ## 🙋‍♂️ Author
-**Paul Jose** - M.Tech CSE - Mar Athanasius College of Engineering - [[LinkedIn](https://www.linkedin.com/in/paul-jose-016)] | [[Email](mailto:pauljose513@gmail.com)]
+**Paul Jose** - M.Tech CSE - Mar Athanasius College of Engineering - [LinkedIn](https://www.linkedin.com/in/paul-jose-016) | [Email](mailto:pauljose513@gmail.com)
 
 ## 📄 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
